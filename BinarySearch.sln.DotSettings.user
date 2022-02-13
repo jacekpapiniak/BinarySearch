@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0e01c85d_002D5f16_002D41d7_002Da144_002D0cfd9bec463b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Search_ReturnIndex_WhenFoundItem(&amp;quot;Homes&amp;quot;,16)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_ReturnIndex_WhenFoundItem("Homes",16)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_ReturnIndex_WhenFoundItem("Roose",33)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_ReturnIndex_WhenFoundItem("Balaam",0)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_ReturnIndex_WhenFoundItem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_ReturnIndex_WhenFoundItem("Wright",49)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_Return_Negative_One_WhenItem_NotFound("Papiniak")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_Return_Negative_One_WhenItem_NotFound("Ros")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D07A04C-B9FD-4481-A4E8-3115F5EAAC15::net6.0::BinarySearchTests.BinarySearchTests.Search_Return_Negative_One_WhenItem_NotFound&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
